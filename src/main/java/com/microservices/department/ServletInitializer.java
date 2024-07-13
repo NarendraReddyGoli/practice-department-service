@@ -1,4 +1,4 @@
-package com.microservices;
+package com.microservices.department;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
